@@ -19,8 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9abb0603-45f9-4959-b546-3d838ce13216" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hellworld.js" afterDir="false" />
+    <list default="true" id="9abb0603-45f9-4959-b546-3d838ce13216" name="Default Changelist" comment="add hello world function">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template_SpecRunner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/hello.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/SpecRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/PlayerSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/spec/PlayerSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hellworld.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hellworld.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +56,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hellworld.js" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FirstUser\Desktop\GitHub\JasmineProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.hellworld.js">
+    <configuration name="SpecRunner.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JasmineProject/SpecRunner.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="hellworld.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$PROJECT_DIR$/src/hellworld.js" nameIsGenerated="true" path-to-js-file="hellworld.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.hellworld.js" />
+        <item itemvalue="JavaScript Debug.SpecRunner.html" />
       </list>
     </recent_temporary>
   </component>
@@ -72,8 +88,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599807839642</updated>
-      <workItem from="1599807892086" duration="599000" />
+      <workItem from="1599807892086" duration="5966000" />
     </task>
+    <task id="LOCAL-00001" summary="add hello world function">
+      <created>1599808603050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599808603050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add hello world function">
+      <created>1599808647296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599808647296</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,11 +121,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hello world function" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hello world function" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="423" y="0" key="#hellworld.js.inPresentationMode" timestamp="1599808532228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="423" y="0" key="#hellworld.js.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1599808532228" />
+    <state x="165" y="0" key="CommitChangelistDialog2.inPresentationMode" timestamp="1599808675483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="165" y="0" key="CommitChangelistDialog2.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1599808675483" />
     <state x="527" y="35" key="FileChooserDialogImpl.inPresentationMode" timestamp="1599808523832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

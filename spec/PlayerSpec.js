@@ -45,6 +45,14 @@ describe("Player", function() {
     expect(song.persistFavoriteStatus).toHaveBeenCalledWith(true);
   });
 
+  describe("when song hasn't been paused", function() {
+    beforeEach(function() {
+      player.play(song);
+      player.not.pause();
+    });
+
+  });
+
   //demonstrates use of expected exceptions
   describe("#resume", function() {
     it("should throw an exception if song is already playing", function() {
